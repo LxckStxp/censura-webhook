@@ -1,0 +1,12 @@
+{
+  "name": "censura-webhook",
+  "version": "1.0.0",
+  "main": "webhook_server.js",
+  "scripts": {
+    "start": "node webhook_server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^1.6.0"
+  }
+}
